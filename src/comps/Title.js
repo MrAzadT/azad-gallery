@@ -10,7 +10,7 @@ const Title = () => {
         alt=""
       />
       <h1>Azad Gallery</h1>
-      <h2> Your Pictures</h2>
+      <h2>upload Your Pictures</h2>
     </div>
   );
 };
