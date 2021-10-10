@@ -11,6 +11,7 @@ const Title = () => {
       />
       <h1>Azad Gallery</h1>
       <h2>upload Your Pictures</h2>
+      <h2>upload Your Pictures</h2>
     </div>
   );
 };
